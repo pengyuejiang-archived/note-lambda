@@ -6,13 +6,13 @@ Note Lambda is an application which records information based upon the technolog
 
 ## Authors
 
-Person A
+Pengyue Jiang
 
 
-Person B
+Tong Wu
 
 
-Person C
+Jingyu Zhang
 
 
-Person D
+Ruiqi Yang
