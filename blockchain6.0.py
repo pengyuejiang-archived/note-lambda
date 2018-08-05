@@ -28,7 +28,7 @@ class Block():
 				str(self.prev_hash)).encode('utf-8'))
 		return sha.hexdigest()
 
-	# 区块链的
+	# 区块链的信息
 	block_info = {}
 
 # 以上是通用的Blcok结构，但是创世区块是需要特殊定义的：
